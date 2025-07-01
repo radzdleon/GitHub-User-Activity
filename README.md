@@ -1,5 +1,6 @@
 # GitHub-User-Activity
 https://roadmap.sh/projects/github-user-activity
+
 A simple Node.js command-line tool that fetches and displays the recent public activity of any GitHub user — right from your terminal.
 
 ---
@@ -35,6 +36,4 @@ cd github-activity-cli
 node github-activity.js <github-username>
 
 ```Example: node github-activity.js torvalds```
-
-
 
